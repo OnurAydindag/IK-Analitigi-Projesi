@@ -1,0 +1,6 @@
+departman_id,departman_adi,yonetici_id,lokasyon,butce
+1,İnsan Kaynakları,25,İstanbul,500000
+2,Finans,2,İstanbul,750000
+3,Bilgi Teknolojileri,13,Ankara,650000
+4,Pazarlama,17,İstanbul,600000
+5,Operasyon,9,İzmir,550000

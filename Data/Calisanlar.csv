@@ -1,0 +1,101 @@
+calisan_id,ad,soyad,departman_id,pozisyon,ise_giris_tarihi,maas
+1,Ahmet,Yılmaz,1,Uzman,2019-03-15,45000
+2,Ayşe,Kaya,2,Müdür,2018-01-20,75000
+3,Mehmet,Demir,1,Uzman,2020-06-10,42000
+4,Fatma,Çelik,3,Analist,2021-02-14,38000
+5,Ali,Şahin,2,Koordinatör,2019-11-05,52000
+6,Zeynep,Yıldız,4,Uzman,2020-09-22,46000
+7,Mustafa,Öztürk,1,Kıdemli Uzman,2017-05-18,58000
+8,Elif,Arslan,3,Analist,2021-07-30,36000
+9,Hasan,Koç,5,Müdür,2016-12-01,82000
+10,Selin,Aydın,2,Uzman,2020-04-12,44000
+11,Emre,Özkan,1,Uzman,2019-08-25,43000
+12,Derya,Kılıç,4,Koordinatör,2018-10-15,55000
+13,Burak,Aslan,3,Kıdemli Analist,2017-03-08,62000
+14,Cansu,Doğan,2,Uzman,2021-01-18,41000
+15,Kerem,Yılmaz,5,Uzman,2020-11-30,47000
+16,Gizem,Kurt,1,Analist,2021-05-22,35000
+17,Onur,Özdemir,4,Müdür,2015-09-12,85000
+18,Merve,Şahin,3,Uzman,2019-07-14,44000
+19,Cem,Yıldırım,2,Kıdemli Uzman,2016-04-20,60000
+20,Deniz,Çetin,1,Uzman,2020-02-28,42000
+21,Berk,Kara,5,Koordinatör,2018-08-05,53000
+22,İrem,Aydın,4,Analist,2021-03-16,37000
+23,Kaan,Yılmaz,3,Uzman,2019-12-10,45000
+24,Ebru,Arslan,2,Uzman,2020-10-08,43000
+25,Murat,Demir,1,Müdür,2014-06-15,88000
+26,Tuğçe,Kaya,5,Uzman,2021-04-25,40000
+27,Serkan,Çelik,4,Kıdemli Uzman,2017-11-18,59000
+28,Pelin,Şahin,3,Analist,2020-08-14,38000
+29,Eren,Öztürk,2,Koordinatör,2018-05-22,54000
+30,Aslı,Yıldız,1,Uzman,2019-09-30,44000
+31,Tolga,Koç,4,Analist,2021-06-12,36000
+32,Başak,Aydın,5,Kıdemli Uzman,2016-02-28,61000
+33,Arda,Özkan,3,Uzman,2020-01-15,43000
+34,Naz,Kılıç,2,Uzman,2019-10-20,45000
+35,Çağlar,Aslan,1,Koordinatör,2017-07-10,56000
+36,Seda,Doğan,4,Müdür,2015-03-25,86000
+37,Barış,Yılmaz,5,Uzman,2020-12-05,42000
+38,Duygu,Kurt,3,Analist,2021-08-18,35000
+39,Utku,Özdemir,2,Kıdemli Uzman,2016-09-14,59000
+40,İpek,Şahin,1,Uzman,2019-04-22,44000
+41,Alper,Yıldırım,4,Uzman,2020-07-30,46000
+42,Gamze,Çetin,5,Koordinatör,2018-11-12,52000
+43,Sinan,Kara,3,Analist,2021-02-08,37000
+44,Burcu,Aydın,2,Uzman,2019-06-16,43000
+45,Oğuz,Yılmaz,1,Kıdemli Uzman,2017-01-20,58000
+46,Yeliz,Arslan,4,Analist,2020-09-05,38000
+47,Taner,Demir,5,Müdür,2015-12-10,84000
+48,Esra,Kaya,3,Uzman,2019-08-28,44000
+49,Volkan,Çelik,2,Koordinatör,2018-03-15,53000
+50,Ceyda,Şahin,1,Uzman,2020-05-20,42000
+51,Ozan,Öztürk,4,Kıdemli Uzman,2016-10-25,60000
+52,Sibel,Yıldız,5,Analist,2021-07-14,36000
+53,Koray,Koç,3,Uzman,2019-11-30,45000
+54,Dilara,Aydın,2,Uzman,2020-03-10,43000
+55,Yiğit,Özkan,1,Koordinatör,2017-08-22,55000
+56,Nihan,Kılıç,4,Müdür,2014-05-18,87000
+57,Doruk,Aslan,5,Uzman,2020-10-28,41000
+58,Melis,Doğan,3,Analist,2021-04-16,37000
+59,Batuhan,Yılmaz,2,Kıdemli Uzman,2016-06-20,59000
+60,Ecem,Kurt,1,Uzman,2019-12-12,44000
+61,Ege,Özdemir,4,Uzman,2020-08-05,46000
+62,Damla,Şahin,5,Koordinatör,2018-02-28,52000
+63,Berke,Yıldırım,3,Analist,2021-09-22,35000
+64,Sude,Çetin,2,Uzman,2019-05-15,43000
+65,Kuzey,Kara,1,Kıdemli Uzman,2017-02-10,58000
+66,Nehir,Aydın,4,Analist,2020-11-18,38000
+67,Atlas,Yılmaz,5,Müdür,2015-07-25,83000
+68,Yaren,Arslan,3,Uzman,2019-09-08,44000
+69,Toprak,Demir,2,Koordinatör,2018-04-12,54000
+70,Ela,Kaya,1,Uzman,2020-06-25,42000
+71,Eymen,Çelik,4,Kıdemli Uzman,2016-11-30,61000
+72,Ada,Şahin,5,Analist,2021-03-20,36000
+73,Aras,Öztürk,3,Uzman,2019-10-15,45000
+74,Lina,Yıldız,2,Uzman,2020-04-08,43000
+75,Demir,Koç,1,Koordinatör,2017-09-22,56000
+76,Mira,Aydın,4,Müdür,2014-08-15,88000
+77,Kaya,Özkan,5,Uzman,2020-12-30,40000
+78,Asya,Kılıç,3,Analist,2021-06-18,37000
+79,Efe,Aslan,2,Kıdemli Uzman,2016-03-25,60000
+80,Maya,Doğan,1,Uzman,2019-07-12,44000
+81,Rüzgar,Yılmaz,4,Uzman,2020-09-28,46000
+82,Sena,Kurt,5,Koordinatör,2018-01-15,53000
+83,Ömer,Özdemir,3,Analist,2021-08-05,35000
+84,Esma,Şahin,2,Uzman,2019-11-22,43000
+85,Umut,Yıldırım,1,Kıdemli Uzman,2017-04-18,59000
+86,Nur,Çetin,4,Analist,2020-10-12,38000
+87,Kemal,Kara,5,Müdür,2015-06-20,85000
+88,Hande,Aydın,3,Uzman,2019-08-08,44000
+89,Selim,Yılmaz,2,Koordinatör,2018-12-15,52000
+90,Lale,Arslan,1,Uzman,2020-07-22,42000
+91,Furkan,Demir,4,Kıdemli Uzman,2016-05-28,60000
+92,Begüm,Kaya,5,Analist,2021-02-14,36000
+93,Halil,Çelik,3,Uzman,2019-09-30,45000
+94,Aysun,Şahin,2,Uzman,2020-05-18,43000
+95,Turgut,Öztürk,1,Koordinatör,2017-10-25,55000
+96,Nilüfer,Yıldız,4,Müdür,2014-07-12,86000
+97,Ramazan,Koç,5,Uzman,2020-11-05,41000
+98,Gönül,Aydın,3,Analist,2021-05-28,37000
+99,İbrahim,Özkan,2,Kıdemli Uzman,2016-08-15,59000
+100,Hatice,Kılıç,1,Uzman,2019-12-20,44000
