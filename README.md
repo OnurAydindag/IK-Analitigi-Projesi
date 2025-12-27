@@ -156,15 +156,13 @@ Bu proje, **end-to-end data analytics** workflow'unu göstermektedir:
 
 ---
 
-## 📧 İletişim
-
----
-
 ## ⚠️ Önemli Not
 
 **Bu projede kullanılan tüm veriler tamamen rastgele üretilmiştir.** Çalışan isimleri, departman bilgileri, maaş tutarları ve diğer tüm bilgiler gerçek kişi, kurum veya kuruluşlarla ilişkili değildir.
 
 ---
+
+## 📧 İletişim
 
 **Onur Aydındağ**
 
