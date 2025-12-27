@@ -66,7 +66,8 @@ IK-Analitigi-Projesi/
 │   └── Dashboard_Genel.png      # Dashboard görseli
 │
 └── Tableau/                      # Tableau çalışmaları
-    └── Tableau_Dashboard.png     # Dashboard görseli
+    ├── IK_Analitigi_Dashboard.twbx  # Tableau Packaged Workbook
+    └── Tableau_Dashboard.png        # Dashboard görseli
 ```
 
 ---
@@ -125,6 +126,10 @@ IK-Analitigi-Projesi/
 - 6 aylık bordro trend analizi
 - İzin yönetimi metrikleri
 
+**Dosyalar:** 
+- [`Tableau/IK_Analitigi_Dashboard.twbx`](Tableau/IK_Analitigi_Dashboard.twbx) - Tableau Packaged Workbook (indirilebilir)
+- [`Tableau/Tableau_Dashboard.png`](Tableau/Tableau_Dashboard.png) - Dashboard görseli
+
 ---
 
 ## 💡 Temel Bulgular
@@ -167,4 +172,4 @@ Bu proje, **end-to-end data analytics** workflow'unu göstermektedir:
 **Onur Aydındağ**
 
 - 📊 **Tableau Public:** [public.tableau.com/profile/onur.ayd.nda.](https://public.tableau.com/app/profile/onur.ayd.nda.)
-- 💼 **LinkedIn:** [www.linkedin.com/in/onur-aydındağ-aa528a216]
+- 💼 **LinkedIn:** [linkedin.com/in/onur-aydındağ-aa528a216](https://www.linkedin.com/in/onur-aydındağ-aa528a216)
