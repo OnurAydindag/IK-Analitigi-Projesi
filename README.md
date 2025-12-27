@@ -127,7 +127,7 @@ IK-Analitigi-Projesi/
 - İzin yönetimi metrikleri
 
 **Dosyalar:** 
-- [`Tableau/IK_Analitigi_Dashboard.twbx`](Tableau/IK_Analitigi_Dashboard.twbx) - Tableau Packaged Workbook (indirilebilir)
+- [`Tableau/IK_Analitigi_Dashboard.twbx`](Tableau/IK_Analitigi_Dashboard.twbx) - Tableau Packaged Workbook
 - [`Tableau/Tableau_Dashboard.png`](Tableau/Tableau_Dashboard.png) - Dashboard görseli
 
 ---
